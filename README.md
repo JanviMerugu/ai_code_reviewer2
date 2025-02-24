@@ -19,6 +19,6 @@ The **AI Code Reviewer** is a Streamlit-based application that allows users to s
 
 ## 📎 Links
 
-- **GitHub Repository:** 
+- **GitHub Repository:** https://github.com/JanviMerugu/ai_code_reviewer2.git
 - **Live app:** https://ai-code-reviewer-app.streamlit.app/
 
