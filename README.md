@@ -22,3 +22,8 @@ The **AI Code Reviewer** is a Streamlit-based application that allows users to s
 - **GitHub Repository:** https://github.com/JanviMerugu/ai_code_reviewer2.git
 - **Live app:** https://ai-code-reviewer-app.streamlit.app/
 
+## 🚀 Future Enhancements  
+
+- **📂 File Uploading & Batch Processing** – Allow users to upload multiple files for bulk code analysis instead of manual input.  
+- **🔍 Code Comparison Mode** – Side-by-side code version comparison to track improvements over time.  
+- **💾 Save Chat History** – Store AI interactions for users to review past feedback anytime.  
